@@ -68,3 +68,9 @@ you can see funny figure.
     if you wanna tweet. Input EOF and type 'y' or 'Y'.  
     Else input EOF and type other figure.
 
+
+
+## References
+
+https://ymotongpoo.hatenablog.com/entry/20110127/1296140016  
+コマンドラインで動作するTwitterクライアントを30分くらいで作れるPythonはかっこいい (YAMAGUCHI::weblog) 2018.04.05
